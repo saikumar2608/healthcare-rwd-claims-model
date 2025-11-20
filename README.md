@@ -187,7 +187,6 @@ README.md
 
 **Sai Kumar Chary Sripathi**  
 Health Data Science | RWE | Clinical Analytics  
-LinkedIn: *your LinkedIn URL here*
 
 ---
 
